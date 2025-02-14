@@ -1,0 +1,6 @@
+# database.xlsx ignora aquivo expesifico
+*.xlsx 
+# #.xlsx ignora o tipo de arquivo *.txt etc
+
+arquivos/
+# ignora a pasta inteira (nessa caso a pasta arquivo)
